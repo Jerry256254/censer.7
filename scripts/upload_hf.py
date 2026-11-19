@@ -53,7 +53,7 @@ datasets:
 - PKU-Alignment/BeaverTails
 - lmsys/toxic-chat
 - databricks/databricks-dolly-15k
-- Hate-speech-CNERG/hatexplain (train split only; test split = pure eval)
+- Hate-speech-CNERG/hatexplain
 - Intuit-GenSRF/jigsaw-multilingual-train-unique
 metrics:
 - f1
