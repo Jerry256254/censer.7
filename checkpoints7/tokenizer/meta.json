@@ -1,0 +1,23 @@
+{
+  "special_tokens": [
+    "[PAD]",
+    "[BOS]",
+    "[USER]",
+    "[ASSISTANT]"
+  ],
+  "answer_ids": [
+    19,
+    20,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77
+  ],
+  "vocab_size": 2048
+}

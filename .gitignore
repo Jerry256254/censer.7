@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+data/processed/
+checkpoints/
+reports/*.json
+.pytest_cache/
+*.egg-info/
+.commandcode/
+checkpoints_old_ref/
+checkpoints_ref/
+runs/
+checkpoints_ft3/
